@@ -1,0 +1,21 @@
+.container{
+   
+    font-size: 20px;
+    margin:5px;
+   
+ 
+
+}
+.container input{
+    height: 20px;
+    width:30%;
+}
+.container button{
+    background-color: green;
+    font-size:18px;
+    border-radius:3px;
+    padding:2px;
+    color:white;
+    box-shadow: 0px 0px 3px 2px rgb(231, 225, 225);
+    
+}
